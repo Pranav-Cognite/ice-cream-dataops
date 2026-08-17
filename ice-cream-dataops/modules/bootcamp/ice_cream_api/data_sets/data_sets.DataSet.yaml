@@ -1,0 +1,6 @@
+- externalId: {{icapi_ds_external_id}}
+  name: asset:ice_cream_api
+  description: This dataset contains asset data for the Ice cream API
+  writeProtected: false
+  metadata:
+    origin: cognite-toolkit
