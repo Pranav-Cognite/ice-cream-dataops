@@ -37,6 +37,10 @@ capabilities:
       actions: [READ, WRITE]
       scope:
         all: {}
+  - groupsAcl:
+      actions: [LIST, READ]
+      scope:
+        all: {}
   - hostedExtractorsAcl:
       actions: [READ, WRITE]
       scope:
